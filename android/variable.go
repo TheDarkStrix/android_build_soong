@@ -20,7 +20,7 @@ import (
 	"runtime"
 	"strings"
 
-	"lineage/soong/android"
+	"dnd/soong/android"
 
 	"github.com/google/blueprint/proptools"
 )
